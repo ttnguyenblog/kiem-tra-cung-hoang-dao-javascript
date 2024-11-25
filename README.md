@@ -1,4 +1,4 @@
-# Bài thực hành 6: xác định cung hoàng đạo
+# Kiểm tra cung hoàng đạo bằng JavaScript
 ![image](https://ttnguyen.net/wp-content/uploads/2023/06/bai-thuc-hanh-lap-trinh-web-5-them-select-option-js-fithou-1.jpg)
 
 Thực hiện các yêu cầu sau (mã lệnh được viết bằng JavaScript):
